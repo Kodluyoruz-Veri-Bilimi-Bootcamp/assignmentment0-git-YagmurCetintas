@@ -1,7 +1,7 @@
 ﻿# git_basics
 * Basics of git
 
-kodluyoruz veribilimi bootcamp
+*kodluyoruz veribilimi bootcamp
 ----
 
 * git config user.name “First Last" 
@@ -22,7 +22,7 @@ kodluyoruz veribilimi bootcamp
 * add a new line "kodluyoruz veribilimi bootcamp"
 
 * go back to terminal
-* git add
+* git add .
 * git commit -m ''
 * git push origin master
 
