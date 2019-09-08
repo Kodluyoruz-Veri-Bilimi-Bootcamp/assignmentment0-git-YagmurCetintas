@@ -1,6 +1,7 @@
-# git_basics
+﻿# git_basics
 * Basics of git
 
+kodluyoruz veribilimi bootcamp
 ----
 
 * git config user.name “First Last" 
